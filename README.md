@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Livro de Receitas</title>
+
 </head>
 <body>
     <h1>🍴 Livro de Receitas</h1>
